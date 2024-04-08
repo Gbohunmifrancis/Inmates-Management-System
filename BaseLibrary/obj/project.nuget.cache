@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZOdhNuFBSCzL0K8DAvUJRIZpUJynAec3Gat7zbP5UBjAXJtO22/Xt6WaaZ8kKHZhecDXVhR+jGzdoNO7shcJdA==",
+  "dgSpecHash": "ZwwMKb8C3SWTbrhPMgvjm4abCXFxlYXTbmFlkqZEbr1K/zwxTVrYjSnS+HEmZHPQcbio+WKYlPYwRxAaq2LtlQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj",
   "expectedPackageFiles": [
@@ -8,11 +8,6 @@
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.5.0\\microsoft.identitymodel.abstractions.7.5.0.nupkg.sha512",
-    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.5.0\\microsoft.identitymodel.jsonwebtokens.7.5.0.nupkg.sha512",
-    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.identitymodel.logging\\7.5.0\\microsoft.identitymodel.logging.7.5.0.nupkg.sha512",
-    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.5.0\\microsoft.identitymodel.tokens.7.5.0.nupkg.sha512",
-    "C:\\Users\\Hp\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.5.0\\system.identitymodel.tokens.jwt.7.5.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []

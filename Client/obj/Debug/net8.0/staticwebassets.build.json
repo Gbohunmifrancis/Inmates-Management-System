@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8aT/DSaJ+vch1hk7Q1ZB0J5sTwcoBwp+4qoLK6YpXxw=",
+  "Hash": "KbbsyA7W5ngGT7WcPVfaNB4MF0SPXGvZCTuehwOQY0M=",
   "Source": "Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AutoMapper.wasm",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AutoMapper.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Client\\obj\\Debug\\net8.0\\webcil\\AutoMapper.wasm"
+    },
     {
       "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\BaseLibrary.pdb",
       "SourceId": "Client",
@@ -6418,6 +6437,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\BaseLibrary.pdb"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Client\\obj\\Debug\\net8.0\\compressed\\na5oxrq4p6.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/AutoMapper.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AutoMapper.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AutoMapper.wasm"
     },
     {
       "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Client\\obj\\Debug\\net8.0\\compressed\\nchgxhm5lj.gz",

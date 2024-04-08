@@ -48,10 +48,6 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[13.0.1, )"
-            },
-            "System.IdentityModel.Tokens.Jwt": {
-              "target": "Package",
-              "version": "[7.5.0, )"
             }
           },
           "imports": [
@@ -71,6 +67,171 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ClientLibrary\\ClientLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ClientLibrary\\ClientLibrary.csproj",
+        "projectName": "ClientLibrary",
+        "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ClientLibrary\\ClientLibrary.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ClientLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj": {
+                "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Client\\Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Client\\Client.csproj",
+        "projectName": "Client",
+        "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Client\\Client.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj": {
+                "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj"
+              },
+              "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ClientLibrary\\ClientLibrary.csproj": {
+                "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ClientLibrary\\ClientLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.Sdk.WebAssembly.Pack": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[8.0.2, 8.0.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
         }
       }
     },
@@ -97,7 +258,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj": {
+                "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -125,29 +290,29 @@
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.3, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.3, )"
             },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
-              "version": "[7.0.3, )"
+              "version": "[7.5.0, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[7.0.3, )"
+              "version": "[7.5.0, )"
             }
           },
           "imports": [
@@ -197,6 +362,9 @@
               "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj": {
                 "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj"
               },
+              "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Client\\Client.csproj": {
+                "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Client\\Client.csproj"
+              },
               "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ServerLibrary\\ServerLibrary.csproj": {
                 "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ServerLibrary\\ServerLibrary.csproj"
               }
@@ -218,10 +386,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[8.0.3, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.3, )"
@@ -236,10 +400,6 @@
               "target": "Package",
               "version": "[8.0.3, )"
             },
-            "Microsoft.IdentityModel.Tokens": {
-              "target": "Package",
-              "version": "[7.5.0, )"
-            },
             "SwashBuckle.AspNetCore.Filters": {
               "target": "Package",
               "version": "[7.0.12, )"
@@ -247,10 +407,6 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
-            },
-            "System.IdentityModel.Tokens.Jwt": {
-              "target": "Package",
-              "version": "[7.0.3, )"
             }
           },
           "imports": [

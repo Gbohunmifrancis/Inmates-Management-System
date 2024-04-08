@@ -3,68 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E97B0A99-C456-4504-9CFF-CD1ECF505153}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\serverlibrary\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E97B0A99-C456-4504-9CFF-CD1ECF505153}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E97B0A99-C456-4504-9CFF-CD1ECF505153}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\serverlibrary\\repositories\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97B0A99-C456-4504-9CFF-CD1ECF505153}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositories\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97B0A99-C456-4504-9CFF-CD1ECF505153}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\serverlibrary\\helpers\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97B0A99-C456-4504-9CFF-CD1ECF505153}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\helpers\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97B0A99-C456-4504-9CFF-CD1ECF505153}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\serverlibrary\\helpers\\jwtsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97B0A99-C456-4504-9CFF-CD1ECF505153}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\helpers\\jwtsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\baselibrary\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4FB716D-04B3-4B51-A277-1166D0A87DAE}|Client\\Client.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E4FB716D-04B3-4B51-A277-1166D0A87DAE}|Client\\Client.csproj|solutionrelative:client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{73CC6C6C-8149-4C0F-A159-659F1A666790}|Server\\Server.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CC6C6C-8149-4C0F-A159-659F1A666790}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E97B0A99-C456-4504-9CFF-CD1ECF505153}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\serverlibrary\\serverlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E97B0A99-C456-4504-9CFF-CD1ECF505153}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\serverlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{73CC6C6C-8149-4C0F-A159-659F1A666790}|Server\\Server.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73CC6C6C-8149-4C0F-A159-659F1A666790}|Server\\Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97B0A99-C456-4504-9CFF-CD1ECF505153}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\serverlibrary\\repositories\\contracts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97B0A99-C456-4504-9CFF-CD1ECF505153}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositories\\contracts\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\baselibrary\\responses\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\responses\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\baselibrary\\responses\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\responses\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97B0A99-C456-4504-9CFF-CD1ECF505153}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\serverlibrary\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97B0A99-C456-4504-9CFF-CD1ECF505153}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\baselibrary\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\baselibrary\\entities\\systemrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\systemrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{73CC6C6C-8149-4C0F-A159-659F1A666790}|Server\\Server.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{73CC6C6C-8149-4C0F-A159-659F1A666790}|Server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\baselibrary\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\baselibrary\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\baselibrary\\dtos\\accountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\dtos\\accountbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\baselibrary\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\baselibrary\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\baselibrary\\entities\\inmate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\inmate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\baselibrary\\entities\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\baselibrary\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\baselibrary\\entities\\generaldepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\generaldepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5691673B-5092-4723-BC92-5CF1E4CD4476}|ClientLibrary\\ClientLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\clientlibrary\\clientlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5691673B-5092-4723-BC92-5CF1E4CD4476}|ClientLibrary\\ClientLibrary.csproj|solutionrelative:clientlibrary\\clientlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\hp\\onedrive\\desktop\\xyz\\employeemanagementsystemsolution\\baselibrary\\baselibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{27CC53F1-0B41-4202-9648-91D9A0830F80}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\baselibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,214 +62,179 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ServerLibrary\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ServerLibrary\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ServerLibrary\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ServerLibrary\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ServerLibrary\\Helpers\\Constants.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Helpers\\Constants.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ServerLibrary\\Helpers\\Constants.cs",
+              "RelativeToolTip": "ServerLibrary\\Helpers\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T17:36:36.607Z",
+              "WhenOpened": "2024-04-04T21:25:43.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ServerLibrary",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ServerLibrary\\ServerLibrary.csproj",
-              "RelativeDocumentMoniker": "ServerLibrary\\ServerLibrary.csproj",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ServerLibrary\\ServerLibrary.csproj",
-              "RelativeToolTip": "ServerLibrary\\ServerLibrary.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-02T17:36:09.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Register.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\DTOs\\Register.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\Register.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\DTOs\\Register.cs",
-              "RelativeToolTip": "BaseLibrary\\DTOs\\Register.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T17:31:48.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\DTOs\\Login.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\Login.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\DTOs\\Login.cs",
-              "RelativeToolTip": "BaseLibrary\\DTOs\\Login.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T17:30:06.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AccountBase.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\DTOs\\AccountBase.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\DTOs\\AccountBase.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\DTOs\\AccountBase.cs",
-              "RelativeToolTip": "BaseLibrary\\DTOs\\AccountBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T17:26:24.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Entities\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "BaseLibrary\\Entities\\ApplicationUser.cs",
               "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Entities\\ApplicationUser.cs",
               "RelativeToolTip": "BaseLibrary\\Entities\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T17:22:53.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Town.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Entities\\Town.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Town.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Entities\\Town.cs",
-              "RelativeToolTip": "BaseLibrary\\Entities\\Town.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T17:03:37.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Branch.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Entities\\Branch.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Branch.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Entities\\Branch.cs",
-              "RelativeToolTip": "BaseLibrary\\Entities\\Branch.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T17:02:18.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Entities\\Department.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Department.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Entities\\Department.cs",
-              "RelativeToolTip": "BaseLibrary\\Entities\\Department.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T17:01:10.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GeneralDepartment.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Entities\\GeneralDepartment.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\GeneralDepartment.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Entities\\GeneralDepartment.cs",
-              "RelativeToolTip": "BaseLibrary\\Entities\\GeneralDepartment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T17:00:06.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Client",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Client\\Client.csproj",
-              "RelativeDocumentMoniker": "Client\\Client.csproj",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Client\\Client.csproj",
-              "RelativeToolTip": "Client\\Client.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-02T16:49:41.295Z",
+              "WhenOpened": "2024-04-04T21:14:15.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Server",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Server\\Server.csproj",
-              "RelativeDocumentMoniker": "Server\\Server.csproj",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Server\\Server.csproj",
-              "RelativeToolTip": "Server\\Server.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-02T16:49:33.58Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB8AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:34:01.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtSection.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ServerLibrary\\Helpers\\JwtSection.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Helpers\\JwtSection.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ServerLibrary\\Helpers\\JwtSection.cs",
+              "RelativeToolTip": "ServerLibrary\\Helpers\\JwtSection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:30:39.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Server\\appsettings.json",
+              "RelativeToolTip": "Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T20:25:11.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "RelativeToolTip": "ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:21:18.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Responses\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Responses\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Responses\\LoginResponse.cs",
+              "RelativeToolTip": "BaseLibrary\\Responses\\LoginResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:17:21.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
+              "RelativeToolTip": "ServerLibrary\\Repositories\\Contracts\\IUserAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:09:41.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GeneralResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Responses\\GeneralResponse.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Responses\\GeneralResponse.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Responses\\GeneralResponse.cs",
+              "RelativeToolTip": "BaseLibrary\\Responses\\GeneralResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:14:44.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "BaseLibrary\\Entities\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ServerLibrary\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ServerLibrary\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ServerLibrary\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T16:48:42.616Z",
+              "WhenOpened": "2024-04-04T20:07:00.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Inmate.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Entities\\Inmate.cs",
-              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Inmate.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Entities\\Inmate.cs",
-              "RelativeToolTip": "BaseLibrary\\Entities\\Inmate.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBwAAAAaAAAA",
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Entities\\UserRole.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T16:47:32.802Z",
+              "WhenOpened": "2024-04-04T20:04:49.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ClientLibrary",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ClientLibrary\\ClientLibrary.csproj",
-              "RelativeDocumentMoniker": "ClientLibrary\\ClientLibrary.csproj",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\ClientLibrary\\ClientLibrary.csproj",
-              "RelativeToolTip": "ClientLibrary\\ClientLibrary.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-02T16:42:19.599Z",
+              "DocumentIndex": 11,
+              "Title": "SystemRole.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Entities\\SystemRole.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\SystemRole.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\Entities\\SystemRole.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\SystemRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:03:21.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BaseLibrary",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj",
-              "RelativeDocumentMoniker": "BaseLibrary\\BaseLibrary.csproj",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj",
-              "RelativeToolTip": "BaseLibrary\\BaseLibrary.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 12,
+              "Title": "Server.csproj",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Server\\Server.csproj",
+              "RelativeDocumentMoniker": "Server\\Server.csproj",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\Server\\Server.csproj",
+              "RelativeToolTip": "Server\\Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-02T16:40:09.321Z",
+              "WhenOpened": "2024-04-03T16:32:59.814Z",
               "EditorCaption": ""
             }
           ]

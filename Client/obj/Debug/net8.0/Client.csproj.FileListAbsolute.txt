@@ -1,3 +1,4 @@
+C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\bin\Debug\net8.0\wwwroot\_framework\AutoMapper.wasm
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\bin\Debug\net8.0\wwwroot\_framework\BaseLibrary.pdb
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\bin\Debug\net8.0\wwwroot\_framework\BaseLibrary.wasm
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
@@ -335,6 +336,7 @@ C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\bin\Deb
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\bin\Debug\net8.0\wwwroot\_framework\System.Net.Requests.wasm.gz
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Concurrent.wasm.gz
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\bin\Debug\net8.0\wwwroot\_framework\BaseLibrary.pdb.gz
+C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\bin\Debug\net8.0\wwwroot\_framework\AutoMapper.wasm.gz
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.wasm.gz
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\bin\Debug\net8.0\wwwroot\_framework\System.ServiceModel.Web.wasm.gz
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.wasm.gz
@@ -417,6 +419,7 @@ C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\bin\Deb
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\bin\Debug\net8.0\Client.staticwebassets.runtime.json
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\bin\Debug\net8.0\Client.dll
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
@@ -627,6 +630,8 @@ C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\obj\Deb
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\Client.sourcelink.json
+C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\webcil\AutoMapper.wasm
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Authorization.wasm
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.wasm
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Forms.wasm
@@ -835,6 +840,7 @@ C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\obj\Deb
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\scopedcss\bundle\Client.styles.css
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\scopedcss\projectbundle\Client.bundle.scp.css
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\r0t231nigr.gz
+C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\na5oxrq4p6.gz
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\6qlxzwz122.gz
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\wewit82sa7.gz
 C:\Users\Hp\OneDrive\Desktop\xyz\EmployeeManagementSystemSolution\Client\obj\Debug\net8.0\compressed\obwq54mqka.gz

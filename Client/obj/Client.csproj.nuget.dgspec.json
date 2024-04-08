@@ -48,10 +48,6 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[13.0.1, )"
-            },
-            "System.IdentityModel.Tokens.Jwt": {
-              "target": "Package",
-              "version": "[7.5.0, )"
             }
           },
           "imports": [
@@ -97,7 +93,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj": {
+                "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\xyz\\EmployeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -114,12 +114,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "System.IdentityModel.Tokens.Jwt": {
-              "target": "Package",
-              "version": "[7.0.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -208,10 +202,6 @@
               "target": "Package",
               "version": "[8.0.2, )",
               "autoReferenced": true
-            },
-            "System.IdentityModel.Tokens.Jwt": {
-              "target": "Package",
-              "version": "[7.0.3, )"
             }
           },
           "imports": [

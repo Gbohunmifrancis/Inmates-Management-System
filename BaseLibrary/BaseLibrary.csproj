@@ -8,11 +8,6 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="13.0.1" />
-    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.5.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Responses\" />
   </ItemGroup>
 
 </Project>
